@@ -1,4 +1,4 @@
-package MavenProject_jul2017.MavenProject_jul2017;
+package testscripts;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

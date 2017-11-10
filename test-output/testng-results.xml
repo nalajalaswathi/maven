@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="85" started-at="2017-10-20T04:36:34Z" finished-at="2017-10-20T04:36:35Z">
+  <suite name="Default suite" duration-ms="306" started-at="2017-11-10T14:00:12Z" finished-at="2017-11-10T14:00:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="85" started-at="2017-10-20T04:36:34Z" finished-at="2017-10-20T04:36:35Z">
+    <test name="Default test" duration-ms="306" started-at="2017-11-10T14:00:12Z" finished-at="2017-11-10T14:00:13Z">
       <class name="log4jpackage.testlog4j">
-        <test-method status="PASS" signature="loadlog4j()[pri:0, instance:log4jpackage.testlog4j@14acaea5]" name="loadlog4j" is-config="true" duration-ms="29" started-at="2017-10-20T10:06:34Z" finished-at="2017-10-20T10:06:35Z">
+        <test-method status="PASS" signature="loadlog4j()[pri:0, instance:log4jpackage.testlog4j@d8355a8]" name="loadlog4j" is-config="true" duration-ms="214" started-at="2017-11-10T19:30:12Z" finished-at="2017-11-10T19:30:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadlog4j -->
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:log4jpackage.testlog4j@14acaea5]" name="testLogin" duration-ms="30" started-at="2017-10-20T10:06:35Z" finished-at="2017-10-20T10:06:35Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:log4jpackage.testlog4j@d8355a8]" name="testLogin" duration-ms="56" started-at="2017-11-10T19:30:13Z" finished-at="2017-11-10T19:30:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
